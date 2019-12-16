@@ -1,0 +1,8 @@
+First the player choose to play by clicking one of the options in the features menu.
+The slot machine plays and the result appears first as big win(which is the default "win" result)
+Then as it calculates the profit, the profit grows larger and exceed the limit of "Mega Win" which is 30.0, so it shows "Mege Win" instead.
+Then the profit grows over 60.0 so the win now exceed the limit of "Super Win" which is showed on the screen.
+Finally, the game highlights the slots final result in each row.
+
+I would improve the flow by changing the speed of the profit increasement randomly in certain patterns.
+For example faking a slow down phase(which usually means we are close to the finish) to create suspense and surprise.
